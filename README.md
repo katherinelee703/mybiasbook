@@ -9,3 +9,5 @@
 > This gallery-style photo submission and up-voting site helps fan photographers showcase their skills and provide great content for their fanbases.
 
 ### Who's your bias? Share with us @ my-bias-book.com! <br />
+
+![til](./.favicon-folder/mbb-for-readme.gif)
