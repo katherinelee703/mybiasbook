@@ -12,4 +12,4 @@
 
 #### Site under construction - please enjoy this preview before it goes live~
 
-![site-preview-img](./favicon-folder/site-preview-img.jpg)
+![site-preview-img](./site-preview-img.jpg)
