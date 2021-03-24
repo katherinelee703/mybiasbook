@@ -1,6 +1,6 @@
 # Repo for my-bias-book.com
 
-### Do you love following your favorite KPOP groups on SNS but wish there was a better way to share, organize, upvote, and comment on fan photos?
+### Do you love following your favorite KPOP groups on SNS but wish there was a better way to share, organize, upvote, & comment on fan photos?
 
 > Scouring places like Reddit, Twitter, Instagram, and Discord can take ages.
 
