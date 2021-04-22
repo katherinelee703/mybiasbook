@@ -8,7 +8,7 @@
     "url": "git://github.com/katherinelee703/mybiasbook.git"
   },
   "scripts": {
-    "start": "main.js",
+    "start": "assets/js/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Katherine Lee",
